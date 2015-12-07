@@ -6,6 +6,9 @@
 
 int main()
 {
+	int i = 1000;
+	printf("i = %d", i);
     return 0;
+
 }
 
